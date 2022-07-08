@@ -1,0 +1,8 @@
+{
+  "name": "krish landing_page",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "6a60566c"
+}
